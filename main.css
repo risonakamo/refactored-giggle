@@ -1,0 +1,24 @@
+#mashiron
+{
+    position: fixed;
+    top: 25px;
+    right: 25px;
+    font-size: 80px;
+    z-index: 1;
+    color: white;
+    font-family: "Roboto";
+}
+
+#content
+{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: auto;
+}
+
+#image
+{
+    width: 100%;
+}
