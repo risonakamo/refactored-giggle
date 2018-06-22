@@ -9,7 +9,7 @@
     font-family: "Roboto";
 }
 
-#content
+.content
 {
     position: fixed;
     left: 0px;
@@ -18,7 +18,13 @@
     height: auto;
 }
 
-#image
+.image
 {
+    position: fixed;
     width: 100%;
+}
+
+.soundtrigger
+{
+    cursor: pointer;
 }
